@@ -1,0 +1,1 @@
+Calculadora hecha en base a HTML, CSS y JavaScript. sin usar frameworks ni librerías. todo vainilla. aprendiendo javaScript en el curso de Sergie Code.
